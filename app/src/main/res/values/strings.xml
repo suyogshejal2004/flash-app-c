@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Flash</string>
+    <string name="bath_body">Bath and Body</string>
+    <string name="bevrages">Baverages</string>
+    <string name="bread">Bread</string>
+    <string name="fruits">Fruits</string>
+    <string name="Kihcen">Kichen</string>
+    <string name="munchies">Munchies</string>
+    <string name="packeged">Packeged</string>
+    <string name="sweet">Sweet</string>
+    <string name="vegetables">Vegetables</string>
+
+
+
+</resources>
